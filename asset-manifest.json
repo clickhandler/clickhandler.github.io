@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.1ba29ee2.js",
+    "main.css": "/static/css/main.dd732a80.css",
+    "main.js": "/static/js/main.f93b0689.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/linkedin .png": "/static/media/linkedin .39b978e0dfff057adaee.png",
+    "static/media/github.png": "/static/media/github.33f2e0bac302afac02a0.png",
+    "static/media/slack.png": "/static/media/slack.bae1de8ca50704853d8b.png",
+    "static/media/dermstore.png": "/static/media/dermstore.98441416230335ddf82c.png",
+    "static/media/spark.png": "/static/media/spark.897b8e763e7a743a82fe.png",
+    "static/media/Profile-pic.jpg": "/static/media/Profile-pic.ae236ac181754eed7147.jpg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.1ba29ee2.js.map": "/static/js/main.1ba29ee2.js.map",
+    "main.dd732a80.css.map": "/static/css/main.dd732a80.css.map",
+    "main.f93b0689.js.map": "/static/js/main.f93b0689.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1ba29ee2.js"
+    "static/css/main.dd732a80.css",
+    "static/js/main.f93b0689.js"
   ]
 }
