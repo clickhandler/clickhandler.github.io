@@ -7,8 +7,8 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
     <div className="header">
-      <div className="logo">
-        <img src={require("../assets/logo_2.png")} alt="" />
+    <div className="logo">
+     <img src={require("../assets/logo_2.png")} alt="" />
       </div>
 
       <div className="menu">
@@ -17,7 +17,8 @@ const Navbar = () => {
         </div>
         <div className="mob-menu">
           <div onClick={() => setIsOpen(!isOpen)}>
-            <i class="fi fi-rr-apps  menu_Icon"></i>
+            {/* <i class="fi fi-rr-apps  menu_Icon"></i> */}
+            <i class="fi fi-rr-menu-burger"></i>
           </div>
           {isOpen && <Mobile isOpen={isOpen} setIsOpen={setIsOpen} />}
         </div>

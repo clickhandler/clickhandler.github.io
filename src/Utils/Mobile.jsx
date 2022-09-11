@@ -1,12 +1,13 @@
 import React from "react";
 import "../Style/Mobile.css";
-import { FcCollapse } from "react-icons/fc";
+// import { FcCollapse } from "react-icons/fc";
 const Mobile = ({ isOpen, setIsOpen }) => {
   return (
     <div className="mobile">
-      <div className="close_icon" onClick={()=>setIsOpen(!isOpen)}>
-      {/* <i class="fi fi-sr-cross-circle"></i> */}
-      <FcCollapse/>
+      <div className="close_icon" onClick={()=>setIsOpen(!isOpen)} > <i class="fi fi-rr-cross"></i>
+     
+     
+      {/* <FcCollapse/> */}
       </div>
       <div className="mobile_options">
       <div className="mobile_option">

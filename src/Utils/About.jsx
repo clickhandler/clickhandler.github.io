@@ -8,7 +8,7 @@ const About = () => {
       <div className='about_top'>
         <div className='about_info'> 
         Hello There I am <FcCommandLine/> <br/> <span style={{color:"#c672f4",fontSize:"32px"}}>Ajay Chawariya</span><br/>
-        Enthusiastic developer with holistic knowledge of software development. Passionate about implementing new technologies.Able to transform business requirements into technical solutions. looking forward to a great journey in corporates.
+        Passion-driven learner and a web developer with the ability to write clean, reusable, optimised code. Skilled at building and maintaining MERN based web applications. Looking forward to joining a progressive and challenging work environment.
         </div>
         <div className='about_pic' >
           <img className='picture' src={require("../assets/Profile-pic.jpg")} alt="profile_image" />

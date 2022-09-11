@@ -12,3 +12,13 @@
     color: rgb(198, 114, 244);
     text-decoration: underline;
 }
+@media only screen and (max-width:720px) {
+    .footer{
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+  
+    font-weight: 600;
+    }
+}

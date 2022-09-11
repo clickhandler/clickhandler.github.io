@@ -17,6 +17,10 @@
   width: 50%;
   filter: drop-shadow(0.5rem 0 0.5rem gray);
 }
+.project_card p {
+  margin-top: 20px;
+  line-height: 1.5;
+}
 .project_info {
   margin-right: 25px;
 }
@@ -26,12 +30,13 @@
 }
 .project-tags {
   display: flex;
-  max-width: 60%;
+  max-width: 100%;
   flex-wrap: wrap;
+  margin-top: 20px;
 }
 .project_links a {
   text-decoration: none;
-  color:black;
+  color: black;
 }
 .project_links {
   margin-top: 6px;
@@ -56,8 +61,15 @@
 .tag {
   padding: 4px 8px;
   /* background-color: blueviolet; */
-  background-image: linear-gradient(to right top, #d4bfd5, #cea4c6, #ca88b2, #c66b9b, #c24a7f);
-  color:black;
+  background-image: linear-gradient(
+    to right top,
+    #d4bfd5,
+    #cea4c6,
+    #ca88b2,
+    #c66b9b,
+    #c24a7f
+  );
+  color: black;
   border-radius: 4px;
   margin-right: 6px;
   margin-bottom: 4px;

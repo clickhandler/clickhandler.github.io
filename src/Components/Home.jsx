@@ -9,31 +9,33 @@ import Skills from "../Utils/Skills";
 import Contact from "../Utils/Contact";
 const Home = () => {
   return (
-    <div className="Home">
+    <>
       <div>
         <Navbar />
       </div>
-      <div>
-        <section id="about">
-          <About />
-        </section>
-        <section id="projects">
-          <Projects />
-        </section>
-        <section id="skills">
-          <Skills />
-        </section>
-        {/* <section id="work">
+      <div className="Home">
+        <div>
+          <section id="about">
+            <About />
+          </section>
+          <section id="projects">
+            <Projects />
+          </section>
+          <section id="skills">
+            <Skills />
+          </section>
+          {/* <section id="work">
           <Work />
         </section> */}
-        <section id="contact">
-          <Contact />
-        </section>
+          <section id="contact">
+            <Contact />
+          </section>
+        </div>
+        <div>
+          <Footer />
+        </div>
       </div>
-      <div>
-        <Footer />
-      </div>
-    </div>
+    </>
   );
 };
 

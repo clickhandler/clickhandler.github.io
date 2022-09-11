@@ -5,11 +5,13 @@
   }
   .about{
     padding-bottom: 50px;
+    margin-top: 10%;
   }
   .about_top{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 25px;
     
   }
   .about_info{
@@ -25,9 +27,10 @@
   @media only screen and (max-width:720px){
     .about_top{
       display: flex;
-      flex-direction: column;
+      flex-direction: column-reverse;
       justify-content: center;
       align-items: center;
+      margin-top: 10%;
       
     }
     .picture{
