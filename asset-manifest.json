@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb529409.css",
-    "main.js": "/static/js/main.9b42d131.js",
+    "main.css": "/static/css/main.365e6269.css",
+    "main.js": "/static/js/main.7846ab16.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/linkedin .png": "/static/media/linkedin .39b978e0dfff057adaee.png",
-    "static/media/github.png": "/static/media/github.33f2e0bac302afac02a0.png",
-    "static/media/slack.png": "/static/media/slack.bae1de8ca50704853d8b.png",
-    "static/media/email.png": "/static/media/email.411e6846edb2508f710c.png",
+    "static/media/linkedin  (1).png": "/static/media/linkedin  (1).e07fe616d7dc72803dfa.png",
+    "static/media/github (1).png": "/static/media/github (1).74ed422c01524cb33912.png",
+    "static/media/slack (1).png": "/static/media/slack (1).8956aeea65282056d26c.png",
     "static/media/dermstore.png": "/static/media/dermstore.98441416230335ddf82c.png",
     "static/media/spark.png": "/static/media/spark.897b8e763e7a743a82fe.png",
+    "static/media/email (1).png": "/static/media/email (1).3c44e1e1112ab234d679.png",
     "static/media/Ajay_chawariya_Resume.pdf": "/static/media/Ajay_chawariya_Resume.59787a89f597b745409f.pdf",
     "static/media/logo_2.png": "/static/media/logo_2.4c2c452768affe6ccea4.png",
     "static/media/Profile-pic.jpg": "/static/media/Profile-pic.ae236ac181754eed7147.jpg",
     "index.html": "/index.html",
-    "main.cb529409.css.map": "/static/css/main.cb529409.css.map",
-    "main.9b42d131.js.map": "/static/js/main.9b42d131.js.map",
+    "main.365e6269.css.map": "/static/css/main.365e6269.css.map",
+    "main.7846ab16.js.map": "/static/js/main.7846ab16.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb529409.css",
-    "static/js/main.9b42d131.js"
+    "static/css/main.365e6269.css",
+    "static/js/main.7846ab16.js"
   ]
 }
