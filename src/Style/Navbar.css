@@ -26,9 +26,15 @@
 }
 .logo {
   display: flex;
-  font-size: 36px;
+  align-items: center;
+  justify-content: flex-start;
+
+  /* font-size: 36px;
   color: blueviolet;
-  font-weight: 800;
+  font-weight: 800; */
+}
+.logo img {
+  width: 25%;
 }
 
 @media only screen and (max-width: 720px) {

@@ -5,7 +5,7 @@ import Navbar from "./Navbar";
 import About from "../Utils/About";
 import Projects from "../Utils/Projects";
 import Skills from "../Utils/Skills";
-import Work from "../Utils/Work";
+// import Work from "../Utils/Work";
 import Contact from "../Utils/Contact";
 const Home = () => {
   return (
@@ -14,7 +14,7 @@ const Home = () => {
         <Navbar />
       </div>
       <div>
-        <section id="a bout">
+        <section id="about">
           <About />
         </section>
         <section id="projects">
@@ -23,9 +23,9 @@ const Home = () => {
         <section id="skills">
           <Skills />
         </section>
-        <section id="work">
+        {/* <section id="work">
           <Work />
-        </section>
+        </section> */}
         <section id="contact">
           <Contact />
         </section>

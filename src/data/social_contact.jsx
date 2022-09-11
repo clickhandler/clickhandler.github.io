@@ -13,5 +13,13 @@ export const Social_Data = [
         platform: "slack",
         link: "https://app.slack.com/client/T0332T1KVA6/browse-channels/rimeto_profile/U034VFLV69J",
         icon: require("../assets/slack.png")
+    },
+    {   id:4,
+        platform: "email",
+        link: "https://www.gmail.com",
+        icon: require("../assets/email.png")
     }
+    
+
+
 ]

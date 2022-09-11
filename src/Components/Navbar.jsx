@@ -7,7 +7,9 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
     <div className="header">
-      <div className="logo">Ajay chawariya</div>
+      <div className="logo">
+        <img src={require("../assets/logo_2.png")} alt="" />
+      </div>
 
       <div className="menu">
         <div className="web-menu">

@@ -5,11 +5,11 @@ import "../Style/Project.css"
 import ProjectCard from './ProjectCard'
 const Projects = () => {
   const data=project_data
-  console.log(data)
+ 
   return (
     <div className='projects'>
     <SepratorLine/>
-      <label className='section_title '>Projects</label>
+      <label className='section_title'>Projects</label>
       <div>
        {
          data?.map((item)=>{

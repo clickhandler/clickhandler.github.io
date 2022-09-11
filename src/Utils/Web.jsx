@@ -6,22 +6,22 @@ const Web = () => {
   return (
     <div className="web">
       <div className="web_option">
-        <a href="#project">
+        <a href="#projects">
           <i class="fi fi-rr-edit-alt option_icon"></i>Projects
         </a>
       </div>
       <div className="web_option">
-        <a href="#Skills">
+        <a href="#skills">
           <i class="fi fi-rr-laptop option_icon"></i>Skills
         </a>
       </div>
-      <div className="web_option">
+      {/* <div className="web_option">
         <a href="#Work">
           <i class="fi fi-rr-briefcase"></i>Work
         </a>
-      </div>
+      </div> */}
       <div className="web_option">
-        <a href="#Contact">
+        <a href="#contact">
           <i class="fi fi-rr-following"></i>Contact
         </a>
       </div>
