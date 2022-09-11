@@ -20,6 +20,6 @@
 
 @media only screen and (max-width: 720px) {
   .social_icon {
-    width: 25px;
+    display: none;
   }
 }

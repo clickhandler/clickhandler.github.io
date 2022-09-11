@@ -4,7 +4,7 @@ import Mobile from "../Utils/Mobile";
 
 import Web from "../Utils/Web";
 const Navbar = () => {
-  const [isOpen, setIsOpen] = useState(true);
+  const [isOpen, setIsOpen] = useState(false);
   return (
     <div className="header">
       <div className="logo">Ajay chawariya</div>
