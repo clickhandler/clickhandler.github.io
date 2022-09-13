@@ -11,6 +11,10 @@ const Contact = () => {
         <div className='contact_left'>
           <p>Want to get in touch? Contact me on any of the platfrom.</p>
           <Social />
+          <div className='contact-details'>
+          <div><i class="fi fi-rr-envelope"></i> Ajaychawariya34@gmail.com</div>
+          <div> <i class="fi fi-rr-phone-call"></i> +91 8607073242</div>
+          </div>
         </div>
         <div className='contact_right'>
           <a download href={require("../assets/Ajay_chawariya_Resume.pdf")}>

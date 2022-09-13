@@ -88,6 +88,9 @@
     align-items: center;
     justify-content: center;
   }
+  .project_card p{
+    font-size: 13px;
+  }
   .project_info {
     margin-left: 0px;
     margin-top: 12px;

@@ -38,6 +38,7 @@
       height: 200px;
     }
     .about_info{
-      font-size: 20px;
+      width: 100%;
+      font-size: 16px;
     }
   }

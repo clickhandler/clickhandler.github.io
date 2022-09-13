@@ -39,6 +39,10 @@ export const SkillData = [
             icon: <i class="devicon-bootstrap-plain colored"></i>
 
         },
+        {
+            name:"Git",
+            icon:<i class="devicon-git-plain colored"></i>
+        }
         ]
     },
     {
@@ -51,6 +55,10 @@ export const SkillData = [
             {
                 name: "Express",
                 icon: <i class="devicon-express-original colored"></i>
+            },
+            {
+                name:"MongoDB",
+                icon:<i class="devicon-mongodb-plain colored"></i>
             }
         ]
     }
