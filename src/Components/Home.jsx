@@ -5,15 +5,18 @@ import Navbar from "./Navbar";
 import About from "../Utils/About";
 import Projects from "../Utils/Projects";
 import Skills from "../Utils/Skills";
+import GithubCalender from "../data/GithubCalender";
 // import Work from "../Utils/Work";
 import Contact from "../Utils/Contact";
 const Home = () => {
   return (
     <>
+
       <div>
         <Navbar />
       </div>
       <div className="Home">
+
         <div>
           <section id="about">
             <About />
@@ -27,6 +30,9 @@ const Home = () => {
           {/* <section id="work">
           <Work />
         </section> */}
+          <section id="GithubCalender">
+            <GithubCalender />
+          </section>
           <section id="contact">
             <Contact />
           </section>

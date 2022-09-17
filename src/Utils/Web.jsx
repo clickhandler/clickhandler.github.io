@@ -7,12 +7,12 @@ const Web = () => {
     <div className="web">
       <div className="web_option">
         <a href="#projects">
-          <i class="fi fi-rr-edit-alt option_icon"></i>Projects
+        <i class="fi fi-rr-edit"></i> Projects
         </a>
       </div>
       <div className="web_option">
         <a href="#skills">
-          <i class="fi fi-rr-laptop option_icon"></i>Skills
+        <i class="fi fi-rr-laptop"></i> Skills
         </a>
       </div>
       {/* <div className="web_option">
@@ -22,7 +22,7 @@ const Web = () => {
       </div> */}
       <div className="web_option">
         <a href="#contact">
-          <i class="fi fi-rr-following"></i>Contact
+        <i class="fi fi-rr-following"></i> Contact
         </a>
       </div>
     </div>

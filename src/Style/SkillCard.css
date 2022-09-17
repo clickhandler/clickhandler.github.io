@@ -13,6 +13,7 @@
   align-items: center;
   justify-content: center;
   margin: 6px;
+  filter: drop-shadow(0.5rem 0 0.5rem gray);
 }
 .skill-icon {
   font-size: 80px;

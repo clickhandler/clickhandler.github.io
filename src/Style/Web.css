@@ -16,9 +16,14 @@
 }
 .web_option a {
   text-decoration: none;
-  color: black;
+ color: gray;
   display: flex;
   align-items: center;
+  
+}
+.web_option a:hover{
+  border-bottom: 2px solid rgb(170, 122, 215);
+  
 }
 
 .option_icon {
