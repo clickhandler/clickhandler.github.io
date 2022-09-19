@@ -8,6 +8,8 @@ import Skills from "../Utils/Skills";
 import GithubCalender from "../data/GithubCalender";
 // import Work from "../Utils/Work";
 import Contact from "../Utils/Contact";
+import Softskill from "../Utils/Softskill";
+import StaticSection from "../Utils/StaticSection";
 const Home = () => {
   return (
     <>
@@ -30,6 +32,13 @@ const Home = () => {
           {/* <section id="work">
           <Work />
         </section> */}
+        <section id="Softskill">
+            <Softskill/>
+          </section>
+        <section id="Static_section">
+            <StaticSection/>
+          </section>
+        
           <section id="GithubCalender">
             <GithubCalender />
           </section>

@@ -6,7 +6,7 @@ import "../Style/Github.css"
 const GithubCalender = (container, clickhandler) => {
   GitHubCalendar(".calendar", "clickhandler");
 
-  // or enable responsive functionality:
+  //  or enable responsive functionality:
   GitHubCalendar(".calendar", "clickhandler", { responsive:true});
 
   // Use a proxy
