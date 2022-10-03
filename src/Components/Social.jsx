@@ -8,9 +8,9 @@ export const Social = () => {
         {
             data.map((item)=>{
                 return (
-                   <a  key={item.id} href={item.link}>
+                   <a rel="noreferrer" target="_blank" key={item.id} href={ item.link}>
                         <div  className='social_div'>
-                        <img className='social_icon' src={item.icon} alt="" />
+                        <img className='social_icon' src={item.icon }  alt="" />
                         </div>
                    </a>
                 )
