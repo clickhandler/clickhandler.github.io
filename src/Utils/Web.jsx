@@ -7,7 +7,7 @@ const Web = () => {
     <div className="web">
       <div className="web_option">
         <a href="#projects">
-        <i class="fi fi-rr-edit"></i> Projects
+        <i class="fi fi-rr-document"></i> Projects
         </a>
       </div>
       <div className="web_option">
