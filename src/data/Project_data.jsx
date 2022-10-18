@@ -3,7 +3,7 @@ export const project_data = [
     id: 1,
     title: "Lovoda clone ",
     about:
-      "Lovoda is a jewellery ecommerce website where the diffeent categories of female jewellery products are available to buy.",
+      "LOVODA is a women's fashion brand for the newest & trending fashion accessories and online shop that offered high quality products at an affordable price. We have built the exact website clone as it is on the original website.My responsiblity to build landing page with responsive design and Functionality.",
     tags: ["ReactJs", "Redux", "JavaScript", "chakra ui"],
     demo: "https://lovoda-clone-three.vercel.app/",
     github:
