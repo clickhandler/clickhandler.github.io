@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.4aea0851.css",
-    "main.js": "/static/js/main.6c9ad771.js",
+    "main.js": "/static/js/main.897043f3.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/linkedin  (1).png": "/static/media/linkedin  (1).e07fe616d7dc72803dfa.png",
-    "static/media/Resume.pdf": "/static/media/Resume.e3665aa331013495ed4d.pdf",
     "static/media/github (1).png": "/static/media/github (1).74ed422c01524cb33912.png",
     "static/media/slack (1).png": "/static/media/slack (1).8956aeea65282056d26c.png",
     "static/media/dermstore.png": "/static/media/dermstore.98441416230335ddf82c.png",
     "static/media/spark.png": "/static/media/spark.897b8e763e7a743a82fe.png",
     "static/media/Lovoda.png": "/static/media/Lovoda.c91d4669102c074cef09.png",
     "static/media/email (1).png": "/static/media/email (1).3c44e1e1112ab234d679.png",
+    "static/media/Resume.pdf": "/static/media/Resume.b7876e9f4b864d8cd4df.pdf",
     "static/media/logo_2-removebg-preview.png": "/static/media/logo_2-removebg-preview.8d003b009706f91daf67.png",
     "static/media/Profile-pic.jpg": "/static/media/Profile-pic.ae236ac181754eed7147.jpg",
     "index.html": "/index.html",
     "main.4aea0851.css.map": "/static/css/main.4aea0851.css.map",
-    "main.6c9ad771.js.map": "/static/js/main.6c9ad771.js.map",
+    "main.897043f3.js.map": "/static/js/main.897043f3.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4aea0851.css",
-    "static/js/main.6c9ad771.js"
+    "static/js/main.897043f3.js"
   ]
 }
