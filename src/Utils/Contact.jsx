@@ -17,7 +17,7 @@ const Contact = () => {
           </div>
         </div>
         <div className='contact_right'>
-          <a download href={require("../assets/Resume.pdf")}>
+          <a download href={require("../assets/Ajay-chawariya-Resume.pdf")}>
             <i class='fi-rr-cloud-download download_icon' />
             Download Resume</a>
         </div>
